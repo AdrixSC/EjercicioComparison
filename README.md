@@ -9,4 +9,4 @@
 4.Regresamos un true si los valores del arreglo son iguales
 5.FIN
 
-![Esta es la imagen del diagrama](Diagrama.jpg)
+![Esta es la imagen del diagrama](diagrama_720.jpg)
